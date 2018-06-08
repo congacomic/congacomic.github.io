@@ -1,0 +1,26 @@
+# Site Build Settings
+
+# jekyll-paginate configuration
+paginate:            5
+baseurl: "/conga-comic"
+github:
+  url: "/conga-comic"
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+destination:         docs
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Conga Comic"
+description:	       "Life on the chain, one block at a time"
+author:              "Ed Moffat"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
