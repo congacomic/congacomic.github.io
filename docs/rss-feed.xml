@@ -3,8 +3,8 @@
 	<channel>
 		<title>Conga Comic</title>
 		<description>Life on the chain, one block at a time</description>
-		<link>/conga-comic</link>
-		<atom:link href="/conga-comic/rss-feed.xml" rel="self" type="application/rss+xml" />
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Block Height 29 - Training Montage</title>

@@ -2,9 +2,9 @@
 
 # jekyll-paginate configuration
 paginate:            5
-baseurl: "/conga-comic"
+baseurl: ""
 github:
-  url: "/conga-comic"
+  url: ""
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
