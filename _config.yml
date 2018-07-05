@@ -19,7 +19,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Conga Comic"
 description:	       "Life on the chain, one block at a time"
-author:              "Ed Moffat"
+author:              "Ed Moffat & friends"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
