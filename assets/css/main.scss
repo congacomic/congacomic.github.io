@@ -6,9 +6,11 @@
   Site variables
 */
 
-$base-font-family: 'Roboto', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap');
 
-$body-font-family: 'Roboto', sans-serif;
+$base-font-family: 'IBM Plex Sans', 'Roboto', sans-serif;
+
+$body-font-family: 'IBM Plex Sans', 'Roboto', sans-serif;
 
 $code-font-family: "Source Code Pro", monospace;
 
@@ -47,13 +49,13 @@ $header-thickness: 56px;
 .content {
   position: relative;
   width: 90%;
-  
+
   margin: auto;
   overflow: hidden;
 }
 
 .content .content-overlay {
-  background: rgba(0,0,0,0.7);
+  background: rgba(0,0,0,0.5);
   position: absolute;
   height: 99%;
   width: 100%;
@@ -73,7 +75,7 @@ $header-thickness: 56px;
 
 .content-image{
   width: 100%;
-  padding: 1em;
+  padding-bottom: 1rem;
 }
 
 .content-details {
@@ -115,4 +117,3 @@ $header-thickness: 56px;
 .fadeIn-bottom{
   top: 80%;
 }
-
