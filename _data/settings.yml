@@ -4,7 +4,7 @@
 
 menu:
 # - {name: 'Interesting Facts', folder: 'pages', file: 'facts.html'}
-- {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
+# - {name: 'Learning Resources', folder: 'pages', file: 'resources.html'}
 # - {name: 'Sample Posts', folder: 'pages', file: 'sample-posts.html'}
 - {name: 'Hyperledger', folder: 'pages', file: 'www.hyperledger.org', icon: 'external-link', type: 'external'}
 - { name: 'About', folder: 'pages', file: 'about.html'}
